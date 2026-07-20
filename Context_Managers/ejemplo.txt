@@ -1,9 +1,3 @@
 
 hilo_1
 hilo_2
-hilo_1
-hilo_2
-hilo_1
-hilo_2
-hilo_1
-hilo_2
